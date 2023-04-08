@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "677130977870",
+    "project_id": "draw2sketch6",
+    "storage_bucket": "draw2sketch6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677130977870:android:b396926802bf590882b91f",
+        "android_client_info": {
+          "package_name": "com.Draw2Sketch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677130977870-6do1d271cj4q6eu9ai86n79t0fd01fpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Draw2Sketch",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "677130977870-jvfpmjul855hiqmdq1vn8bic63sd9721.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAR4K7iIFxDjnQkSt3ZSxUZoNVZHRb-xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677130977870-jvfpmjul855hiqmdq1vn8bic63sd9721.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677130977870-r2rgifpktoc9uimfn5h2vmggod0khkmk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Draw2Sketch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
